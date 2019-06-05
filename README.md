@@ -1,2 +1,3 @@
 # Vue
-A new vue project
+
+A really simple Vue boilerplate
