@@ -1,3 +1,3 @@
 # Vue
 
-A really simple Vue boilerplate
+A simple Vue boilerplate for new projects using the Vue framework
